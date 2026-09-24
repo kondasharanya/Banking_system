@@ -43,10 +43,10 @@ Project Structure
 
 *Banking-System/
 
- |
- |_Banking_system.py
+  |
+  |___Banking_system.py
 
- |_README.md
+  |___README.md
 
  How to Run
 
