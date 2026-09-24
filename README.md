@@ -44,7 +44,6 @@ Project Structure
 *Banking-System/
  │
  ├── main.py
- 
  └── README.md
 
  How to Run
