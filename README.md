@@ -55,7 +55,7 @@ Make sure Python is installed on your computer.
 Check the Python version:
 python --version
 2. Clone the Repository
-git clone 
+git clone https://github.com/kondasharanya/Banking_system.git
 3. Open the Project
 Open the project folder in VS Code.
 4. Run the Program
