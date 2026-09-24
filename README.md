@@ -6,32 +6,32 @@ This project was developed as a mini project to practice Python programming conc
 
 Features
 
-Create a new bank account
-Generate a unique 6-digit account number
-4-digit PIN validation
-User login authentication
-Check account balance
-Deposit money
-Withdraw money
-Transfer money between accounts
-View transaction history
-Change account PIN
-Logout
+*Create a new bank account
+*Generate a unique 6-digit account number
+*4-digit PIN validation
+*User login authentication
+*Check account balance
+*Deposit money
+*Withdraw money
+*Transfer money between accounts
+*View transaction history
+*Change account PIN
+*Logout
 
 Technologies Used
 
-Python
-random module – for generating account numbers
-datetime module – for recording transaction date and time
-Python dictionaries – for storing account information
-Python lists – for storing transaction history
+*Python
+*random module – for generating account numbers
+*datetime module – for recording transaction date and time
+*Python dictionaries – for storing account information
+*Python lists – for storing transaction history
 
 Project Structure
 
-Banking-System/
-│
-├── main.py
-└── README.md
+*Banking-System/
+ │
+ ├── main.py
+ └── README.md
 
  How to Run
 
@@ -66,29 +66,29 @@ After logging in, users can access:
  Python Concepts Used
 
 This project demonstrates:
-Variables
-Data types
-Dictionaries
-Lists
-Functions
-Conditional statements
-while loops
-for loops
-User input
-String validation
-Modules and imports
-Date and time handling
+*Variables
+*Data types
+*Dictionaries
+*Lists
+*Functions
+*Conditional statements
+*while loops
+*for loops
+*User input
+*String validation
+*Modules and imports
+*Date and time handling
 
  Future Enhancements
 
 Possible improvements include:
-Store data permanently using JSON or a database
-Add an admin login
-Add account deletion
-Add account details/profile
-Generate bank statements
-Add a graphical user interface
-Add stronger security for PINs and user information
+*Store data permanently using JSON or a database
+*Add an admin login
+*Add account deletion
+*Add account details/profile
+*Generate bank statements
+*Add a graphical user interface
+*Add stronger security for PINs and user information
 
  Project Purpose
 
