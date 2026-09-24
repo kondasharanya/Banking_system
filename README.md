@@ -1,7 +1,9 @@
 # Banking_system
 Project Description
+
 The Banking System is a Python-based console application that simulates basic banking operations. It allows users to create a bank account, securely log in using an account number and PIN, and perform different banking activities such as checking balance, depositing money, withdrawing money, transferring money, viewing transaction history, and changing the PIN.
 This project was developed as a mini project to practice Python programming concepts and understand how a simple banking application works.
+
 Features
 Create a new bank account
 Generate a unique 6-digit account number
@@ -15,30 +17,35 @@ View transaction history
 Change account PIN
 Logout
 Input validation and error handling
+
 Technologies Used
 Python
 random module – for generating account numbers
 datetime module – for recording transaction date and time
 Python dictionaries – for storing account information
 Python lists – for storing transaction history
+
 Project Structure
 Banking-System/
 │
 ├── main.py
 └── README.md
+
  How to Run
 1. Install Python
 Make sure Python is installed on your computer.
 Check the Python version:
 python --version
 2. Clone the Repository
-git clone https://github.com/konda sharanya/Banking-System.git
+git clone https://github.com/kondasharanya/Banking-system.git
 3. Open the Project
 Open the project folder in VS Code.
 4. Run the Program
 Open the VS Code terminal and run:
 python main.py
+
  Main Menu
+  
    BANKING SYSTEM
 1. Create Account
 2. Login
@@ -51,6 +58,7 @@ After logging in, users can access:
 5. Transaction History
 6. Change PIN
 7. Logout
+
  Python Concepts Used
 This project demonstrates:
 Variables
@@ -65,6 +73,7 @@ User input
 String validation
 Modules and imports
 Date and time handling
+
  Future Enhancements
 Possible improvements include:
 Store data permanently using JSON or a database
@@ -74,5 +83,6 @@ Add account details/profile
 Generate bank statements
 Add a graphical user interface
 Add stronger security for PINs and user information
+
  Project Purpose
 This project was created to improve practical Python programming skills by implementing a real-world-inspired application using functions, data structures, validation, and modular programming.
