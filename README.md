@@ -42,9 +42,10 @@ Technologies Used
 Project Structure
 
 *Banking-System/
+
  |
- 
  |_Banking_system.py
+
  |_README.md
 
  How to Run
